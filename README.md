@@ -1,4 +1,4 @@
-# Etude_Technique_C-
+# Etude_Technique_C++
 Portfolio sur l'étude Technique de C++
 
 Je vous propose deux branches distinctes sur l'étude techniques du langage C++.
