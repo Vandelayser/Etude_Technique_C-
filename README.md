@@ -3,7 +3,7 @@ Portfolio sur l'étude Technique de C++
 
 Je vous propose deux branches distinctes sur l'étude techniques du langage C++.
 
-  => vous y retrouverai de petits programmes vérifiés et compilables servant d'exemple aux différents points théoriques :
+  => vous y retrouverai de petits programmes vérifiés et compilables servant d'exemples aux différents points théoriques :
   
     J'y aborde : 
 
