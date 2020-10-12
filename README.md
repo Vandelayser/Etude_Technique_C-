@@ -31,7 +31,7 @@ Je vous propose deux branches distinctes sur l'étude techniques du langage C++.
         -> 22)  Les fonctions virtuelles et le polymorphisme
         -> 23)  Optimisation pas déplacement
         -> 24)  Les flots
-        -> 25)  la gestion des exceptions
+        -> 25)  La gestion des exceptions
         -> 26)  Généralités sur la bibliothèque standard
         -> 27)  Les conteneurs séquentiels
         -> 28)  Les conteneurs associatifs
